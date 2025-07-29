@@ -22,7 +22,7 @@
 
 <div>
   <header class="flex justify-center">
-    <img class="h-auto w-64" src="/logo.svg" />
+    <img class="h-auto w-64" src="/demo-standaard-maatwerk/logo.svg" />
   </header>
 
   <nav class="mb-4">

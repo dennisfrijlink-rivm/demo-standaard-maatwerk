@@ -1,4 +1,5 @@
 import { mount } from "svelte";
+import "./css/fonts.css";
 import "./css/tailwind.css";
 import App from "./App.svelte";
 

@@ -1,53 +1,41 @@
 @font-face {
   font-family: "RO Sans";
-  src: url(/fonts/RO-SansWebText-Regular.eot);
-  src: url(/fonts/RO-SansWebText-Regular.eot#iefix) format("eot"),
-    url(/fonts/RO-SansWebText-Regular.woff) format("woff");
+  src: url("/fonts/RO-SansWebText-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "RO Sans";
-  src: url(/fonts/RO-SansWebText-Bold.eot);
-  src: url(/fonts/RO-SansWebText-Bold.eot#iefix) format("eot"),
-    url(/fonts/RO-SansWebText-Bold.woff) format("woff");
+  src: url("/fonts/RO-SansWebText-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: "RO Sans";
-  src: url(/fonts/RO-SansWebText-Italic.eot);
-  src: url(/fonts/RO-SansWebText-Italic.eot#iefix) format("eot"),
-    url(/fonts/RO-SansWebText-Italic.woff) format("woff");
+  src: url("/fonts/RO-SansWebText-Italic.woff") format("woff");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: "RO Serif";
-  src: url(/fonts/RO-SerifWeb-Regular.eot);
-  src: url(/fonts/RO-SerifWeb-Regular.eot#iefix) format("eot"),
-    url(/fonts/RO-SerifWeb-Regular.woff) format("woff");
+  src: url("/fonts/RO-SerifWeb-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "RO Serif";
-  src: url(/fonts/RO-SerifWeb-Bold.eot);
-  src: url(/fonts/RO-SerifWeb-Bold.eot#iefix) format("eot"),
-    url(/fonts/RO-SerifWeb-Bold.woff) format("woff");
+  src: url("/fonts/RO-SerifWeb-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: "RO Serif";
-  src: url(/fonts/RO-SerifWeb-Italic.eot);
-  src: url(/fonts/RO-SerifWeb-Italic.eot#iefix) format("eot"),
-    url(/fonts/RO-SerifWeb-Italic.woff) format("woff");
+  src: url("/fonts/RO-SerifWeb-Italic.woff") format("woff");
   font-weight: normal;
   font-style: italic;
 }
