@@ -81,6 +81,7 @@
             {#each data.result as item}
               <SideMenuItem
                 onclick={async () => {
+                  url = undefined;
                   const details = await getDataSetDetails(item);
                   url = getConfig(details);
                 }}
