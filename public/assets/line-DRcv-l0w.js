@@ -1,0 +1,1 @@
+import{x as r}from"./figure-loader-CJ93ISYx.js";import{B as n}from"./base-figure-u1I5xRLa.js";class t extends n{render(){return r`====${super.render()}`}}class c extends t{async renderChart(s){console.log(s)}render(){return r`Echarts-line`}}export{c as EchartsLine};

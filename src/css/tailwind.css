@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+html,
+body,
+#app {
+  height: 100%;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+body {
+  font-family: "RO Sans", Calibri, Verdana, sans-serif;
+}
+
+@theme {
+  --color-main-light-yellow: oklch(0.9645 0.0756 102.03);
+  --color-main-yellow: oklch(0.9018 0.1834 101.28);
+}
+
+@layer base {
+  .c-container {
+    width: 100%;
+    padding-right: 0.938rem;
+    padding-left: 0.938rem;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  @media (min-width: 576px) {
+    .c-container {
+      max-width: 768px;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .c-container {
+      max-width: 992px;
+    }
+  }
+
+  @media (min-width: 992px) {
+    .c-container {
+      max-width: 1140px;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .c-container {
+      max-width: 1200px;
+    }
+  }
+}
