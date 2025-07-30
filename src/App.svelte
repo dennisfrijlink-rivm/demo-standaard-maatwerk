@@ -37,7 +37,7 @@
     </div>
     <div class="bg-main-yellow w-full">
       <div class="c-container">
-        <ul class="flex">
+        <ul class="flex min-h-11">
           <li class="bg-[#fefbdd] cursor-pointer group w-11 flex items-center justify-center">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -61,7 +61,7 @@
     </div>
     <div class="bg-main-light-yellow w-full">
       <div class="c-container">
-        <h1 class="text-[2.5rem] mb-2">Demo: Standaard Maatwerk</h1>
+        <h1 class="lg:text-[2.5rem] text-2xl mb-2">Demo: Standaard Maatwerk</h1>
       </div>
     </div>
   </nav>
@@ -105,7 +105,7 @@
 </div>
 
 <footer class="bg-main-yellow border-t-2 border-[#4e4e4e] py-5 w-full mt-8">
-  <div class="c-container grid grid-cols-4 gap-[30px]">
+  <div class="c-container grid grid-cols-2 lg:grid-cols-4 gap-[30px]">
     <FooterColumn name="Service">
       <FooterColumnItem>Contact</FooterColumnItem>
       <FooterColumnItem>Persinformatie</FooterColumnItem>
