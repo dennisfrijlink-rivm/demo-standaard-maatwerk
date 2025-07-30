@@ -104,7 +104,7 @@
   </main>
 </div>
 
-<footer class="bg-main-yellow border-t-2 border-[#4e4e4e] py-5 w-full">
+<footer class="bg-main-yellow border-t-2 border-[#4e4e4e] py-5 w-full mt-8">
   <div class="c-container grid grid-cols-4 gap-[30px]">
     <FooterColumn name="Service">
       <FooterColumnItem>Contact</FooterColumnItem>
